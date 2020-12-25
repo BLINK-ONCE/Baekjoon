@@ -5,3 +5,4 @@
 ### [cin-cout2](https://coding-factory.tistory.com/479)
 ## Baekjoon-error
 ### [Baekjoon-run-time-error](https://www.secmem.org/blog/2020/09/19/rte/)
+### [change-type-in-C++](https://mynameisdabin.tistory.com/20)
