@@ -6,3 +6,5 @@
 ## Baekjoon-error
 ### [Baekjoon-run-time-error](https://www.secmem.org/blog/2020/09/19/rte/)
 ### [change-type-in-C++](https://mynameisdabin.tistory.com/20)
+### [C++-func-and-return-vals](https://boycoding.tistory.com/138)
+### [C++-STL-vevtor](https://coding-factory.tistory.com/596)
