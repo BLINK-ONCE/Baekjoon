@@ -8,3 +8,4 @@
 ### [change-type-in-C++](https://mynameisdabin.tistory.com/20)
 ### [C++-func-and-return-vals](https://boycoding.tistory.com/138)
 ### [C++-STL-vevtor](https://coding-factory.tistory.com/596)
+### [store-decimal-to-array](https://blog.naver.com/occidere/220790000403)
