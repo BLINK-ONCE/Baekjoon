@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <fstream>
 
 using namespace std;
 
@@ -12,12 +11,13 @@ int main() {
 	while (i < str.length()) {
 		if (str[i] != 32) {
 			cnt++;
-			i++;
 			while (str[i] != 32) {
-				i++;
+				if (i < str.length()) i++;
+				else break;
 			}
 		}
 		else i++;
 	}
 	cout << cnt;
+	return 0;
 }
